@@ -275,7 +275,7 @@ python financial_analysis.py
 ### Tableau:
 > Open Tableau Public
 > Connect to `Sample - Superstore.csv`
-> Or view live dashboard at Tableau Public URL
+> Or view live dashboard at Tableau Public URL - https://public.tableau.com/app/profile/deeksha.gupta5372/viz/Book1_17780127772900/FinancialPerformanceDashboard?publish=yes
 
 ---
 
