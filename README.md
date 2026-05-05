@@ -157,6 +157,12 @@ else Date.FromText([Order Date], [Format="dd-MM-yyyy", Culture="en-GB"])
 
 ---
 
+## 📸 Dashboard Preview
+
+![Excel Dashboard](Dashboard1.png)
+
+---
+
 ## 🐍 Layer 2 — Python Statistical Analysis
 
 ### Setup
@@ -220,6 +226,12 @@ forecast = [trend_line(i) for i in future_index]
 - ✅ Published on Tableau Public
 
 🔗 **Live Dashboard:** [View on Tableau Public](#) ← add your URL
+
+---
+
+## 📸 Dashboard Preview
+
+![Tableau Dashboard](Dashboard2.png)
 
 ---
 
